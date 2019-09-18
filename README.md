@@ -1,7 +1,7 @@
 # scardoss
 
 
-#linux 
+# linux 
 
 1- git clone https://github.com/ahmedtamer65/scardoss
 
@@ -11,7 +11,7 @@
  
  
  
-#termux 
+# termux 
       
 
 1- pkg update 
@@ -33,6 +33,11 @@
 9-cd scardoss
 
 10-python2 scardoss
+ 
+ # contact me
+ email: ahnedtamer19@gmail.com
+ http://t.me/Scar100_Bot
 
-
+ 
+    
 
